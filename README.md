@@ -1,7 +1,7 @@
 - Hi, I’m @amurtala
 - I’m interested in coding
 - I’m currently learning software engineering at Alx African Academy
-- I’m looking to collaborate on Phyton and Linus OS
+- I’m looking to collaborate on C/C++, Phyton and Linux OS
 - How to reach me amurtala+git@gmail.com
 
 <!---
